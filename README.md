@@ -19,8 +19,6 @@ If you use parts of the code, you must provide proper credit linking back to the
 
 Build your own version — don’t just copy.
 
-— Moncy Yohannan
-
 ---
 
 ## 🛠️ Instructions
