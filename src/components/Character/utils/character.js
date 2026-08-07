@@ -46,8 +46,8 @@ const setCharacter = (
                     // Keep eyes white so texture is visible
                     mesh.material.color.setHex(0xffffff);
                   } else if (nameStr.includes("hair") || nameStr.includes("brow") || nameStr.includes("lash")) {
-                    // Hair black
-                    mesh.material.color.setHex(0x111111);
+                    // Hair and eyebrows pure black
+                    mesh.material.color.setHex(0x000000);
                   } else if (nameStr.includes("shirt") || nameStr.includes("cloth") || nameStr.includes("top") || nameStr.includes("jacket")) {
                     // Clothes black
                     mesh.material.color.setHex(0x1a1a1a);
